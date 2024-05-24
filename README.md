@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SadaqatBilal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Opportunities
+- 👋 Hi, I’m **Sadaqat Bilal**
+- 👀 I’m interested in Data Science. I am very pasionate to work with data and play with data according to my skills and market requirements.
+- 🌱 I’m currently learning Machine Learning, and work on powerBI.
+- 💞️ I’m looking to collaborate on Opportunities.
 - 📫 How to reach me sadaqatbilal297@gmail.com
 - 😄 Pronouns: Saddii
 - ⚡ Fun fact: Chill
